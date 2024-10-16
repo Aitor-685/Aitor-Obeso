@@ -1,6 +1,3 @@
-![Header banner](https://github.com/AlanTeixido/AlanTeixido/assets/152865024/82cff999-2562-4353-a76c-8605fd579cd2)
-
-
 ```kotlin
 class SoftwareEngineer {
     var name: String = "Alan Teixidó"
