@@ -1,14 +1,3 @@
-```kotlin
-class SoftwareEngineer {
-    var name: String = "Alan Teixidó"
-    var role: String = "Passionate Learner"
-    var languagesSpoken: List<String> = listOf("es_ES", "en_US")
-
-    fun sayHi() {
-        println("Thanks for dropping by, hope you find some of my work interesting.")
-    }
-}
-```
 # Hi there! 👋
 
 I'm Aitor, a passionate learner currently enrolled in the ITB (Institut Tecnologic de Barcelona), pursuing a degree in DAW (Desarrollo de Aplicaciones Web).
